@@ -1,0 +1,9 @@
+{
+  "name": "chris-pajtas-portfolio",
+  "version": "0.0.0",
+  "description": "ChrisPajtasPortfolio",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
